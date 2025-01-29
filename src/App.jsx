@@ -1,5 +1,5 @@
  import Nav from "./componet/Nav";
- import Lifo from "./componet/Lifo"
+
  import { Services,SpecialOffer,Subscribe,SuperQuality,Hero,CustomerReviews,PopularProducts,Footer } from "./section";
  const App=()=>(
   <main className="relative ">
